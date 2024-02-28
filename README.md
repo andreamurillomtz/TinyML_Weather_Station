@@ -1,2 +1,2 @@
 # TinyML_Weather_Station
-Detect if it's gonna snow
+This Model has been made using google colab
